@@ -8,7 +8,7 @@
 #when the IDE menu s chosen list the shortcuts options
 #a when a shortcut is choesn display more infomation about the shortcut
 #b also provide a way for the user to get back to the main menu
-#Bonus
+#Bonus:
 
 #what is needed for the project
 #main menu
